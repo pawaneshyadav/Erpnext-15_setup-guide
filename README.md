@@ -1,7 +1,7 @@
 # Erpnext-15
 Erpnext 15 complete setup guide
 
-#update sudo
+#update sudo...
 sudo apt-get update -y
 sudo apt-get upgrade -y
 
