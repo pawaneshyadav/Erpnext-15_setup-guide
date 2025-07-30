@@ -32,6 +32,7 @@ nvm alias default 18 ,
 sudo apt-get install npm ---> install npm ,
 sudo apt-get install -g yarn  ---> install yarn ,
 
+sudo apt install python3-pip -y
 sudo pip3 install frappe-bench ---> install frappe ,
 bench init --frappe-branch version-15 frappe-bench ---> connect with frappe branch ,
 
