@@ -33,6 +33,7 @@ sudo apt-get install npm ---> install npm ,
 sudo apt-get install -g yarn  ---> install yarn ,
 
 sudo apt install python3-pip -y
+Create Virtual env for frappe bench & activate after that use the pip install frappe-bench 
 sudo pip3 install frappe-bench ---> install frappe ,
 bench init --frappe-branch version-15 frappe-bench ---> connect with frappe branch ,
 
