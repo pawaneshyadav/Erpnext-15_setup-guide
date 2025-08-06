@@ -30,7 +30,7 @@ nvm use 18 ---> set node.js as default,
 nvm alias default 18 ,
 
 sudo apt-get install npm ---> install npm ,
-sudo apt-get install -g yarn  ---> install yarn ,
+sudo apt-get install nodejs npm -y ---> install yarn ,
 
 sudo apt install python3-pip -y
 Create Virtual env for frappe bench & activate after that use the pip install frappe-bench 
