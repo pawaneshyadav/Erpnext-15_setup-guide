@@ -41,7 +41,8 @@ pip install frappe-bench ---> install frappe ,
 bench init --frappe-branch version-15 frappe-bench ---> connect with frappe branch ,
 
 sudo chmod -R o+rx /home/[frappe user] ---> authorize frappe user ,
-bench new-site [site name] ---> create new site ,
+bench new-site [site name] ---> create new site , or
+bench new-site [site name] --db-name your_custom_db_name
 bench use [site name]  ---> use default site ,
 
 bench get-app payments ---> get payments app ,
